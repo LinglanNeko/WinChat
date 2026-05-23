@@ -1,6 +1,6 @@
 # WinChat
 
-![演示](assets/demonstrate.gif)
+![演示](demonstrate.gif)
 
 WinChat 是一款基于 **Windows 平台**、使用 **Winsock2** 开发的聊天软件。目前仍处于半成品阶段。
 
